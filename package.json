@@ -1,5 +1,5 @@
 {
-  "name": "now-micro",
+  "name": "now-micro-canary",
   "version": "0.3.0",
   "description": "The missing Micro builder for Now 2.0",
   "keywords": [
@@ -40,7 +40,7 @@
     "testEnvironment": "node"
   },
   "dependencies": {
-    "@now/node": "^0.4.27"
+    "@now/node": "^0.4.29-canary.1"
   },
   "devDependencies": {
     "@now/build-utils": "^0.4.31",
